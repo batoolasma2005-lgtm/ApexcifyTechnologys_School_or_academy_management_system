@@ -1,4 +1,4 @@
-# School or academy management system
+# School or Academy Management System
 ## About the Project
 
 This is a C++ based Registrar Portal System developed as part of my internship at Apexcify Technology.
