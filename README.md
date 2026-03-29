@@ -47,7 +47,7 @@ The system stores user data in files and allows faculty members to log in and ma
 
 After login:
 
-->Input student grades<br>
+-> Input student grades<br>
 ->Store in MASTER_GRADES.csv<br>
 ->View student transcript by ID<br>
 ## Files Used
@@ -63,14 +63,14 @@ After login:
   1) Enrollment<br>
   2) Faculty Login<br>
   3) Exit System<br>
-  Selection > 1<br>
+  Selection -> 1<br>
 
 [ENROLLMENT]<br>
 Username: ali123<br>
 Password (6+ chars): 123456<br>
-[+] Account saved.<br>
+Account saved.<br>
 #### Login Example
-Selection > 2<br>
+Selection -> 2<br>
 
 [LOGIN]<br>
 ID: ali123<br>
@@ -78,22 +78,22 @@ KEY: 123456<br>
 Welcome, ali123 | Mon Jan 1 12:00:00 2026<br>
 #### Faculty Portal
 PORTAL: ali123<br>
- 1. Input Grade<br>
- 2. View Transcript<br>
- 3. Logout<br>
- >> 1<br>
+1. Input Grade<br>
+2. View Transcript<br>
+3. Logout<br>
+Selection-> 1<br>
 
 Student ID: S101<br>
 Grade: 3.5<br>
->> Grade logged.<br>
+Grade logged.<br>
 #### View Transcript
->> 2<br>
+Selection-> 2<br>
 Enter Student ID to view: S101<br>
 
 -- Transcript for S101 --<br>
- > S101,3.5,ali123<br>
+-> S101,3.5,ali123<br>
 #### Exit
-Selection > 3<br>
+Selection -> 3<br>
 Closing system...<br>
 ## 👤 Author
 
